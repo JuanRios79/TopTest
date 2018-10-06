@@ -1,0 +1,29 @@
+body{
+  background-image: url(../images/fondo01.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1,h3{
+  font-family:"Oswald" ;
+  color: white;
+  text-transform: uppercase;
+  text-align:center;
+}
+img{
+  width:20% ;
+  margin: auto;
+  display: block;
+  border: 5px solid white;
+  border-radius:50% ;
+}
+.img_foto {
+  height:auto;
+  margin-top: 10%;
+  position: relative;
+}
+.txt_nombre {
+  top: 100%;
+  position: absolute;
+  width: 100%;
+}
